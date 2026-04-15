@@ -214,7 +214,7 @@ A API estará disponível em:
 
 ## ☁️ Deploy
 
-O projeto está **100% compatível com deploy serverless na [Vercel](https://vercel.com)**.
+O projeto está **100% compatível com deploy serverless na [Vercel](https://curriculo-express-9103iiy8a-matheus-projects-c7b72954.vercel.app)**.
 
 ### ✅ Variáveis de ambiente esperadas:
 
